@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
@@ -26,6 +27,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -39,4 +41,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
