@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0217-contains-duplicate) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
@@ -23,12 +24,14 @@
 | [0066-plus-one](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0189-rotate-array](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
