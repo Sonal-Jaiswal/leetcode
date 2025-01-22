@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0217-contains-duplicate) |
@@ -37,6 +38,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -48,6 +50,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0268-missing-number) |
 ## Linked List
