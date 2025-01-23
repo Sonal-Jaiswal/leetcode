@@ -19,6 +19,7 @@
 | [0485-max-consecutive-ones](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Sonal-Jaiswal/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [0075-sort-colors](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0283-move-zeroes) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Sonal-Jaiswal/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -97,6 +99,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0067-add-binary) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Sonal-Jaiswal/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
