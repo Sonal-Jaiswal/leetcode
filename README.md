@@ -38,6 +38,7 @@
 | [0268-missing-number](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0415-add-strings) |
+| [0492-construct-the-rectangle](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0492-construct-the-rectangle) |
 ## Two Pointers
 |  |
 | ------- |
