@@ -81,6 +81,7 @@
 | [0002-add-two-numbers](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
@@ -128,6 +129,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -156,4 +158,12 @@
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0279-perfect-squares) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
