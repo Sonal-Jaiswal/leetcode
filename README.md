@@ -34,6 +34,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0069-sqrtx) |
@@ -122,6 +123,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0268-missing-number) |
