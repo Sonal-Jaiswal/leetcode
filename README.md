@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0036-valid-sudoku) |
+| [0053-maximum-subarray](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -145,6 +146,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -165,6 +167,7 @@
 | [0010-regular-expression-matching](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0053-maximum-subarray) |
 | [0279-perfect-squares](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0279-perfect-squares) |
 | [1013-fibonacci-number](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
