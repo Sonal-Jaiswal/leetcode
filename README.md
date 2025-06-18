@@ -36,6 +36,7 @@
 | [0002-add-two-numbers](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0069-sqrtx) |
@@ -97,6 +98,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0050-powx-n) |
 | [0342-power-of-four](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1013-fibonacci-number) |
 ## String
