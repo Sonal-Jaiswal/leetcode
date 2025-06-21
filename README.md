@@ -14,6 +14,7 @@
 | [0053-maximum-subarray](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0169-majority-element) |
@@ -61,6 +62,7 @@
 | [0027-remove-element](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sonal-Jaiswal/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -80,6 +82,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0268-missing-number) |
