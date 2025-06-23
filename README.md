@@ -183,6 +183,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0100-same-tree) |
 | [0279-perfect-squares](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0279-perfect-squares) |
 ## Heap (Priority Queue)
 |  |
@@ -206,4 +207,16 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0036-valid-sudoku) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
