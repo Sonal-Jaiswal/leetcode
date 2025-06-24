@@ -203,6 +203,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Matrix
 |  |
 | ------- |
@@ -210,13 +211,16 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
