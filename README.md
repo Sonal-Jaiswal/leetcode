@@ -68,6 +68,7 @@
 | [0061-rotate-list](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sonal-Jaiswal/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -130,6 +131,7 @@
 | [0058-length-of-last-word](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0125-valid-palindrome) |
 | [0415-add-strings](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0415-add-strings) |
 ## Trie
 |  |
