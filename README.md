@@ -82,6 +82,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
@@ -92,6 +93,7 @@
 | [0088-merge-sorted-array](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
@@ -132,6 +134,7 @@
 | [0065-valid-number](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0415-add-strings) |
 ## Trie
 |  |
