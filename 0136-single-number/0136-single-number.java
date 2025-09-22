@@ -1,12 +1,9 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        int result = 0;
-        
-        // XOR all elements in the array
-        for (int num : nums) {
-            result ^= num;
+        int result =0;
+        for (int i=0; i<nums.length;i++){
+            result= result ^ nums[i];
         }
-        
-        return result;  // The result will be the single number
+        return result;        
     }
 }
