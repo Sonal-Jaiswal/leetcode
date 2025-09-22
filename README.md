@@ -50,6 +50,7 @@
 | [0069-sqrtx](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0342-power-of-four) |
@@ -119,6 +120,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1013-fibonacci-number) |
 ## String
@@ -156,6 +158,7 @@
 | [0029-divide-two-integers](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
