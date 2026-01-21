@@ -272,4 +272,5 @@
 | [0197-rising-temperature](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0197-rising-temperature) |
 | [1068-product-sales-analysis-i](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1661-average-time-of-process-per-machine](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1661-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
