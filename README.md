@@ -28,6 +28,7 @@
 | [0485-max-consecutive-ones](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1732-find-the-highest-altitude](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1755-defuse-the-bomb](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1755-defuse-the-bomb) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sonal-Jaiswal/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -185,6 +186,7 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1732-find-the-highest-altitude](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Union Find
 |  |
 | ------- |
