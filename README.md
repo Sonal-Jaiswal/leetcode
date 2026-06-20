@@ -32,6 +32,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1755-defuse-the-bomb](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1755-defuse-the-bomb) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1929-concatenation-of-array](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1929-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sonal-Jaiswal/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -170,6 +171,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0415-add-strings) |
+| [1929-concatenation-of-array](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1929-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sonal-Jaiswal/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
