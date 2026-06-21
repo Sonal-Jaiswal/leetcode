@@ -148,6 +148,7 @@
 | [0344-reverse-string](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0415-add-strings) |
+| [3612-process-string-with-special-operations-i](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Trie
 |  |
 | ------- |
@@ -173,6 +174,7 @@
 | [0415-add-strings](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0415-add-strings) |
 | [1929-concatenation-of-array](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1929-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sonal-Jaiswal/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3612-process-string-with-special-operations-i](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Divide and Conquer
 |  |
 | ------- |
