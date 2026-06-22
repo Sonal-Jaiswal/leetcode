@@ -94,6 +94,7 @@
 | [0268-missing-number](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1189-maximum-number-of-balloons](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Sorting
 |  |
 | ------- |
@@ -148,6 +149,7 @@
 | [0344-reverse-string](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0415-add-strings) |
+| [1189-maximum-number-of-balloons](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3612-process-string-with-special-operations-i](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 ## Trie
@@ -188,6 +190,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Prefix Sum
 |  |
 | ------- |
