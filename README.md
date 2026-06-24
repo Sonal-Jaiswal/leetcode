@@ -65,6 +65,7 @@
 | [0415-add-strings](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0492-construct-the-rectangle) |
 | [1013-fibonacci-number](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1013-fibonacci-number) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -224,6 +225,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0279-perfect-squares](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0279-perfect-squares) |
 | [1013-fibonacci-number](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1013-fibonacci-number) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Memoization
 |  |
 | ------- |
