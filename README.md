@@ -55,6 +55,7 @@
 | [0013-roman-to-integer](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0069-sqrtx) |
@@ -228,6 +229,7 @@
 | [0022-generate-parentheses](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0198-house-robber) |
@@ -313,4 +315,8 @@
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
