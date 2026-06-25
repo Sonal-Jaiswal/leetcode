@@ -29,6 +29,7 @@
 | [0485-max-consecutive-ones](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0645-set-mismatch) |
+| [0746-min-cost-climbing-stairs](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -229,6 +230,7 @@
 | [0070-climbing-stairs](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0279-perfect-squares](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0279-perfect-squares) |
+| [0746-min-cost-climbing-stairs](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1013-fibonacci-number) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Memoization
