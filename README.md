@@ -18,6 +18,7 @@
 | [0066-plus-one](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0136-single-number) |
@@ -240,6 +241,7 @@
 | [0062-unique-paths](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0279-perfect-squares) |
