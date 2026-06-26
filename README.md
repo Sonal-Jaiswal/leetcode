@@ -27,6 +27,7 @@
 | [0217-contains-duplicate](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -50,6 +51,7 @@
 | [0035-search-insert-position](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -241,6 +243,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1013-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1143-longest-common-subsequence) |
