@@ -44,6 +44,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sonal-Jaiswal/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2574-left-and-right-sum-differences](https://github.com/Sonal-Jaiswal/leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Sonal-Jaiswal/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search
@@ -56,6 +57,7 @@
 | [0268-missing-number](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Sonal-Jaiswal/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -271,10 +273,12 @@
 | [0101-symmetric-tree](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0279-perfect-squares](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0279-perfect-squares) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Sonal-Jaiswal/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Sonal-Jaiswal/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Merge Sort
 |  |
 | ------- |
@@ -299,6 +303,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0063-unique-paths-ii) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Sonal-Jaiswal/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Tree
 |  |
 | ------- |
@@ -345,4 +350,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0062-unique-paths) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Sonal-Jaiswal/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
