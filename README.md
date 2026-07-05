@@ -33,6 +33,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0645-set-mismatch) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -135,6 +136,7 @@
 | [0242-valid-anagram](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0561-array-partition](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0645-set-mismatch) |
 ## Linked List
 |  |
@@ -381,4 +383,12 @@
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3620-network-recovery-pathways) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
