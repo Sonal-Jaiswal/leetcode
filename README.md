@@ -37,6 +37,7 @@
 | [0645-set-mismatch](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0645-set-mismatch) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1288-remove-covered-intervals](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1480-running-sum-of-1d-array](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1755-defuse-the-bomb](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1755-defuse-the-bomb) |
@@ -138,6 +139,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0645-set-mismatch) |
+| [1288-remove-covered-intervals](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1288-remove-covered-intervals) |
 ## Linked List
 |  |
 | ------- |
