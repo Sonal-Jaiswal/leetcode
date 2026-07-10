@@ -48,6 +48,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/Sonal-Jaiswal/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sonal-Jaiswal/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3637-trionic-array-i](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3637-trionic-array-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -63,6 +64,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sonal-Jaiswal/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Math
 |  |
@@ -107,6 +109,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sonal-Jaiswal/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -142,6 +145,7 @@
 | [0561-array-partition](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0645-set-mismatch) |
 | [1288-remove-covered-intervals](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1288-remove-covered-intervals) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -213,6 +217,7 @@
 | [0342-power-of-four](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0645-set-mismatch) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -272,6 +277,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1013-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1143-longest-common-subsequence) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Memoization
@@ -379,6 +385,7 @@
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sonal-Jaiswal/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -393,6 +400,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0561-array-partition) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Counting Sort
 |  |
 | ------- |
