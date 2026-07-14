@@ -13,6 +13,7 @@
 | [0035-search-insert-position](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0066-plus-one) |
@@ -73,6 +74,7 @@
 | [0002-add-two-numbers](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0066-plus-one) |
@@ -332,6 +334,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0063-unique-paths-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sonal-Jaiswal/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
