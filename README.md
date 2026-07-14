@@ -228,6 +228,7 @@
 | [0190-reverse-bits](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -291,6 +292,7 @@
 | [0198-house-robber](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0338-counting-bits](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0338-counting-bits) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1013-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1143-longest-common-subsequence) |
