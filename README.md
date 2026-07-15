@@ -93,6 +93,7 @@
 | [0415-add-strings](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0492-construct-the-rectangle) |
 | [1013-fibonacci-number](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1013-fibonacci-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -430,4 +431,8 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0561-array-partition) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
