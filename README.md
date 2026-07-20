@@ -39,6 +39,7 @@
 | [0645-set-mismatch](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0645-set-mismatch) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1260-shift-2d-grid](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -245,6 +246,7 @@
 | [0054-spiral-matrix](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0415-add-strings) |
+| [1260-shift-2d-grid](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1929-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sonal-Jaiswal/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/Sonal-Jaiswal/leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -355,6 +357,7 @@
 | [0048-rotate-image](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0063-unique-paths-ii) |
+| [1260-shift-2d-grid](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1260-shift-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sonal-Jaiswal/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Tree
