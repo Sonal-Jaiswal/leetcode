@@ -101,6 +101,7 @@
 | [0492-construct-the-rectangle](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0492-construct-the-rectangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1013-fibonacci-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -225,6 +226,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Sonal-Jaiswal/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3614-process-string-with-special-operations-ii) |
@@ -451,6 +453,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0561-array-partition) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Counting Sort
 |  |
