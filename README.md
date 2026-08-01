@@ -34,6 +34,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -98,6 +99,7 @@
 | [0371-sum-of-two-integers](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0415-add-strings) |
+| [0486-predict-the-winner](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0492-construct-the-rectangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1013-fibonacci-number) |
@@ -201,6 +203,7 @@
 | [0050-powx-n](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1013-fibonacci-number) |
 ## String
 |  |
@@ -322,6 +325,7 @@
 | [0279-perfect-squares](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0338-counting-bits) |
+| [0486-predict-the-winner](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0486-predict-the-winner) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1013-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1143-longest-common-subsequence) |
@@ -474,4 +478,8 @@
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
