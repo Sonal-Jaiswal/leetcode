@@ -108,6 +108,7 @@
 | [0877-stone-game](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1013-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1510-stone-game-iv) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -343,6 +344,7 @@
 | [1013-fibonacci-number](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1013-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1143-longest-common-subsequence) |
+| [1510-stone-game-iv](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3620-network-recovery-pathways) |
@@ -506,12 +508,23 @@
 | [0486-predict-the-winner](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
