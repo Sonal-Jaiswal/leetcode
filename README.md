@@ -53,6 +53,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2029-stone-game-ix](https://github.com/Sonal-Jaiswal/leetcode/tree/master/2029-stone-game-ix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sonal-Jaiswal/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2574-left-and-right-sum-differences](https://github.com/Sonal-Jaiswal/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sonal-Jaiswal/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -111,6 +112,7 @@
 | [1013-fibonacci-number](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1013-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Sonal-Jaiswal/leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -306,6 +308,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [2029-stone-game-ix](https://github.com/Sonal-Jaiswal/leetcode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -488,6 +491,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0561-array-partition) |
+| [2029-stone-game-ix](https://github.com/Sonal-Jaiswal/leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -515,20 +519,24 @@
 | [0877-stone-game](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Sonal-Jaiswal/leetcode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Sonal-Jaiswal/leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Sonal-Jaiswal/leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Sonal-Jaiswal/leetcode/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
