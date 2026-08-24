@@ -50,6 +50,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1755-defuse-the-bomb](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1755-defuse-the-bomb) |
+| [1872-stone-game-viii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1872-stone-game-viii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -116,6 +117,7 @@
 | [1013-fibonacci-number](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1013-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Sonal-Jaiswal/leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -330,6 +332,7 @@
 | [1140-stone-game-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/Sonal-Jaiswal/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -363,6 +366,7 @@
 | [1140-stone-game-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1510-stone-game-iv](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3620-network-recovery-pathways) |
@@ -532,6 +536,7 @@
 | [0877-stone-game](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Sonal-Jaiswal/leetcode/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -539,12 +544,14 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Sonal-Jaiswal/leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Sonal-Jaiswal/leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
