@@ -40,6 +40,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0645-set-mismatch) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0835-image-overlap](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0877-stone-game) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1140-stone-game-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1140-stone-game-ii) |
@@ -447,6 +448,7 @@
 | [0048-rotate-image](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0063-unique-paths-ii) |
+| [0835-image-overlap](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1260-shift-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sonal-Jaiswal/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
