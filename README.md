@@ -291,6 +291,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -465,6 +466,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1096-brace-expansion-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1096-brace-expansion-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/Sonal-Jaiswal/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Matrix
 |  |
@@ -623,4 +625,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
