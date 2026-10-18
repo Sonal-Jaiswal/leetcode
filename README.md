@@ -50,6 +50,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1755-defuse-the-bomb](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1755-defuse-the-bomb) |
@@ -141,6 +142,7 @@
 | [1013-fibonacci-number](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1013-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1510-stone-game-iv) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1872-stone-game-viii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Sonal-Jaiswal/leetcode/tree/master/2029-stone-game-ix) |
@@ -374,6 +376,7 @@
 | [0053-maximum-subarray](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0190-reverse-bits) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting
@@ -433,6 +436,7 @@
 | [1143-longest-common-subsequence](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1510-stone-game-iv) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1872-stone-game-viii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sonal-Jaiswal/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -445,6 +449,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1013-fibonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -516,6 +521,7 @@
 | [0101-symmetric-tree](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -535,6 +541,7 @@
 | [0101-symmetric-tree](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Sliding Window
 |  |
 | ------- |
@@ -561,11 +568,13 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Sonal-Jaiswal/leetcode/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Union-Find
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sonal-Jaiswal/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sonal-Jaiswal/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sonal-Jaiswal/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -675,4 +684,12 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sonal-Jaiswal/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sonal-Jaiswal/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
