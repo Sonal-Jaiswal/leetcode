@@ -94,6 +94,7 @@
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3904-smallest-stable-index-ii) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
 |  |
 | ------- |
