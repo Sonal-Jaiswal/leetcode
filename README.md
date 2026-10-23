@@ -87,6 +87,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3637-trionic-array-i](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3637-trionic-array-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3731-find-missing-elements) |
@@ -359,6 +360,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Sonal-Jaiswal/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Simulation
 |  |
 | ------- |
